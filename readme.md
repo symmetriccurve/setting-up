@@ -1,31 +1,29 @@
-Setting up React.
+If you are looking at this, chances are that you are interested in web developement. 
+This document walks you through of each step you needed to set up react on your machine.
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
+## Step 1
 
-```diff
-# Using ES5 Syntax
--   this.state.products.forEach(function(product){
--      ProductViews.push(<Product productInfo={product} key={product.id} onUpdateProductWithId={this.updateProductWithId} />)
--   }.bind(this))
-- 
+#### Installing Nodejs
+    `Why Nodejs `
+For React to work we would need Nodejs
+
+#### Installing NPM
 
 
-# Using ES6 Syntax - Arrow functions
-# Notice how we got rid of function, return, bind(this) keywords
-+ this.state.products.forEach(product=>{
-+      ProductViews.push(
-+         <Product
-+           productInfo={product}
-+          key={product.id}
-+          onUpdateProductWithId={this.updateProductWithId}
-+         />
-+       );
-+      }
-+    );
-    
- ```
+#### Installing Create-react-app package
+
+
+#### Installing react dev tools
+
+
+#### Installing Postman
+
+#### Creating Firebase account
+
+#### Creating github account
+
+#### Creating a repository with fancy name
+
+#### Cloning the Repository on your machine
+
+#### Creating first react application
